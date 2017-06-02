@@ -1,6 +1,7 @@
-# IslandsEngine
+# Islands Engine
 
-**TODO: Add description**
+A game to accomplish the exercises described in the book
+Functional Web Development with Elixit OTP and Phoenix
 
 ## Installation
 
